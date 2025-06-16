@@ -1,0 +1,25 @@
+# Ignore dataset folders
+data/
+*.h5
+*.tif
+*.zip
+
+# Ignore model checkpoints
+*.pth
+exp/
+validation_map/
+test_map/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Colab/Notebook temp files
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
