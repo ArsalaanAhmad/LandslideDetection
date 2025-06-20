@@ -29,5 +29,6 @@
 - Loaded data into a Dataset class and processed it through DataLoaders
 - developed a devloop to test training loop before a full train
 - Laid some foundation and initialized a new notebook for Exploratory Data Analysis
+- Pushed changes to Git for review
 - Time Spent: 07 Hours 00 Minutes
 
